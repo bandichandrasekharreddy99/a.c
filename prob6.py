@@ -1,4 +1,4 @@
-year=2015
+year=2016
 if (year % 4) == 0:
 	print("year is a leap year")
 else:
